@@ -33,7 +33,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=40784
 **Visual C++ Redistributable for Visual Studio 2012 Update 4**  
 https://www.microsoft.com/en-us/download/details.aspx?id=30679
 
-## Wampserver Yükleme Devam:
+## Wampserver Yüklemeye Devam:
 Sorun çıkmaması açısından kurulum dosyamızı kapatalım yeniden kuruluma başlayalım. 
 
 Bundan sonrası kolay artık, next diyerek ve istediğimiz diğer seçenekleri seçerek kurulumumuzu tamamlayabiliriz.
