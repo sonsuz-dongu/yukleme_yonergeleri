@@ -16,9 +16,9 @@ Sürümü seçtiğimizde **you can download it directly.** kısmını tıklayara
 Dil seçimi ve sözleşmeyi onayladıktan sonra **--- Installation of Wampserver ---** kısmına gelelim. 
 
 **Önemli**  
-Wampserver'ı yüklemek için aşağıdaki öğelerin kurulması ve güncel olmasını yazmakta. Bu öğeler eksik ve güncel değil ise wampserver'ın tam kurulmayacağını, hatalar vereceğini söylemekte.  
+Wampserver'ı yüklemek için aşağıdaki öğelerin kurulması ve güncel olmasını yazmakta. Bu öğeler eksik ve güncel değil ise wampserver'ın tam kurulmayacağını, hatalar vereceğini söylemekte.  Bu işlemi atlarsanın **dll** hataları alacaksınız.
 
-Ayrıca bu öğelerin yüklenmesi için adresler verilmekte. Ben üç tane kurulum yaparak hata almadan kurulumu gerçekleştirdim. Siz birazdan yapacağımız kurulumlardan sonra hata alırsanız. Eksik kalan kurulumları da yapın.
+Ayrıca bu öğelerin yüklenmesi için adresler verilmekte. Ben üç tane kurulum yaparak hata almadan kurulumu gerçekleştirdim. Siz birazdan yapacağımız kurulumlardan sonra hata alırsanız, eksik kalan kurulumları da yapın.
 
 ## Wampserver için Ek Yüklemeri:
 
