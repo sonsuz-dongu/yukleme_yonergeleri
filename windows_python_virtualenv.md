@@ -45,7 +45,7 @@ exit()
 pip -V
 ```
 - pip 20.1.1 from c:\users\user\appdata\local\programs\python\python38\lib\site-packages\pip (python 3.8)
-- 
+
 **Örnek Paket Kurulumu:**
 ```sh
 pip install requests
