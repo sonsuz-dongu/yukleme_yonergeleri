@@ -9,9 +9,9 @@ Bağlantısını tıklayarak **64-bitlik** sürümünü indiriyoruz.
 
 ### Kurma
 İndirmiş olduğumuz kurulum dosyasını çalıştıralım.
-- Kurulumuzun ilk aşamasında 
-**-------Önemli--------** 
-[x] Add Python 3.8 to Path
+- Kurulumuzun ilk aşamasında     
+**-------Önemli--------**    
+[x] Add Python 3.8 to Path     
 kısmını işaretlemeliyiz. Yoksa Path ayarlarını elimizle yapmak zorunda kalırız. 
 
 - **Install now** diyerek kuruluma devam edebiliriz.
