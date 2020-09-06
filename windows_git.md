@@ -8,7 +8,7 @@ Kurulum dosyamızı çalıştırıyoruz. Gerekli ayarları istediğimiz şekilde
 
 **Adjusting your Path environment**    
 Bu bölümde komut satırlarında unix komutlarının çalışması için aşağıdaki seçeneği seçiyoruz.   
-[ x ] Use Git and optional Unix tools from the Command Prompt
+- [x] Use Git and optional Unix tools from the Command Prompt
 
 Diğer ayarları da kendimize göre ayarladıktan sonra kurulumumuzu tamamlıyoruz.
 
