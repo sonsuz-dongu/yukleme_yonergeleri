@@ -27,7 +27,7 @@ git config --list --global
 ```
 
 **Bir proje oluşturarak Github'a yükleyelim**    
-Diznimize git'i ekleyelim.
+Dizinimize git'i ekleyelim.
 
 ```sh
 git init
