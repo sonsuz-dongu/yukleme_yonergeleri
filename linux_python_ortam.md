@@ -1,10 +1,11 @@
 # Ubuntu 20.04'de Python Geliştirme Ortamı
 
-**Terminali Açmak:**  
-<kbd>ctrl + alt + t</kbd>
 
 ## Python Kurulumu
 Ubuntu 20.04'de python kurmaya gerek yok çünkü python ön tanımlı olarak gelmekte.
+
+**Terminali Açmak İçin:**  
+<kbd>ctrl + alt + t</kbd>
 
 **Python Shell İçin:**  
 ```sh 
