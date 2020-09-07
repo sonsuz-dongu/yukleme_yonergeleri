@@ -2,7 +2,7 @@
 
 # Ubuntu Masaüstü Dizini Değiştirme:
 
-**Terminali Açmak:**
+**Terminali Açmak:**  
 <kbd>ctrl + alt + t</kbd>
 
 ```sh 
