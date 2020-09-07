@@ -1,6 +1,6 @@
 
 
-#Ubuntu Masaüstü Dizini Değiştirme:
+# Ubuntu Masaüstü Dizini Değiştirme:
 
 **Terminali Açmak:**
 <kbd>ctrl + alt + t</kbd>
