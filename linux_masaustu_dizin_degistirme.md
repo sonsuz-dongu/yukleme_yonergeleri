@@ -6,7 +6,7 @@
 <kbd>ctrl + alt + t</kbd>
 
 ```sh 
-$ sudo nano ~/.config/user-dirs.dirs
+sudo nano ~/.config/user-dirs.dirs
 ```
 
 > XDG_DESKTOP_DIR="$HOME/Masaüstü"    
