@@ -166,7 +166,7 @@ git init
 **Gitignore Dosyası Ekleme:**    
 Dizine .gitignore dosyası yarat ve venv/ ekle.
 
-**Dosya Oluşturma**
+**Dosya Oluşturma**  
 first.py adında bir dosya oluşturalım.
 ```python
 print('Hello World!')
