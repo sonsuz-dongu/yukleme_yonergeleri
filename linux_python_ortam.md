@@ -76,11 +76,10 @@ git --version
 
 ```sh 
 git config --global user.email "sonsuz_dongu_youtube@hotmail.com"
-```
-
-```sh 
 git config --global user.name "Sonsuz Döngü"
 ```
+
+
 
 **Global Ayarlarımıza Bakalım**   
 ```sh 
