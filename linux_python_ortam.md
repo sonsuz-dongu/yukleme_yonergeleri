@@ -66,7 +66,7 @@ virtualenv --version
 ```sh 
 sudo apt install git-all
 ```
-**Versiyon Kontorolü için:**   
+**Versiyon Kontrolü için:**   
 ```sh 
 git --version
 ```
