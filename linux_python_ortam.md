@@ -152,7 +152,7 @@ pip install pillow # resim işleme paketi
 pip freeze > requirements.txt
 ```
 
-**Requirements.txt ile paket oluşturalım:**   
+**Requirements.txt ile paket oluşturalım(yükleyelim):**   
 ```sh 
 pip install -r requirements.txt
 ```
