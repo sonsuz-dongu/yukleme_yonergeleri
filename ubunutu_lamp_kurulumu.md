@@ -114,7 +114,8 @@ cd www
         Require all granted
 </Directory>
 
-# Yukarıda bulunan dizin /var/www/ dizin yolunu kendi dizin yolumuzla değiştireceğiz. Önemli nokta bir üst dizinizim adını vereceğiz. O da şu durumda bizim masaüstümüz oluyor.
+# Yukarıda bulunan dizin /var/www/ dizin yolunu kendi dizin yolumuzla değiştireceğiz.     
+# Önemli nokta bir üst dizinizim adını vereceğiz. O da şu durumda bizim masaüstümüz oluyor.
 
 <Directory /home/user/Desktop/>
         Options Indexes FollowSymLinks
