@@ -44,7 +44,7 @@ pip3 -V
 **Sürümünü yükseltmek için:**   
 
 ```
-sudo -H pip3 install --upgrade pip
+sudo -H pip3 install --upgrade pip3
 ```
 
 ## Virtualenv Kurulumu
