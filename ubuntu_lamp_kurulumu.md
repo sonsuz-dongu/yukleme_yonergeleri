@@ -135,7 +135,7 @@ sudo nano /etc/apache2/sites-available/000-default.conf
 DocumentRoot /home/user/Desktop/www
 ```
 
-**Apache Servisimizi Yeniden Başlatıyoruz**
+**Apache Servisimizi Yeniden Başlatıyoruz**    
 sudo /etc/init.d/apache2 restart
 
 ### Php Error Gösterme Ayarını Açalım
