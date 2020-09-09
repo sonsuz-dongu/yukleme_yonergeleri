@@ -104,7 +104,7 @@ pwd
 
 **Apache Ayarlarını Yapalım**
 ```sh
-cd www
+sudo nano /etc/apache2/apache2.conf
 ```
 
 ```sh
